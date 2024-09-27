@@ -1,2 +1,4 @@
 # xOS
-xOS is a operating system that runs off of Debian, It's supposed to be a OS that is fully customizable without any difficulties and you can customizable every nook and cranny easily for an average joe schmoe, And you can also use it as a normal operating system for also any joe schmoe and it has lots of features you can find in the readme file 
+XOS is still in the works by our team of 2 people, one of them is me typing this right now lol. We are trying hard to develop this project and it will take a bit of a long time. If we even ever finish this, we hope this will leave an impact on the world and that this project becomes succsesful.
+
+Sincerely, ***The Jolevi Team***
